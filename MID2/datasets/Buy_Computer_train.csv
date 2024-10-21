@@ -1,0 +1,14 @@
+Age,Income,Student,Status,Buy_computer
+<=30,high,no,single,no
+<=30,high,no,married,no
+31..40,high,no,single,yes
+>40,medium,no,single,yes
+>40,low,yes,single,yes
+>40,low,yes,married,no
+31..40,low,yes,married,yes
+<=30,medium,no,single,no
+<=30,low,yes,single,yes
+>40,medium,yes,single,yes
+<=30,medium,yes,married,yes
+31..40,medium,No,married,yes
+31..40,high,yes,single,yes

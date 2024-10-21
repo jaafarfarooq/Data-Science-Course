@@ -1,0 +1,6 @@
+Age,Income,Student,Status
+31..40,high,yes,single
+<=30,high,yes,married
+>40,medium,no,married
+>40,medium,no,single
+31..40,high,yes,single
